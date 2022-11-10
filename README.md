@@ -4,4 +4,4 @@ test changes
 
 hacker attack from another dimension clone
 
-Hacker-ul este nevinovat!
+Hacker-ul este nevinovat! - Adverat!
