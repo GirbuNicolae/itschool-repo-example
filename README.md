@@ -4,3 +4,5 @@ test changes
 
 
 hacker attack from another dimension clone
+
+Lipseste o comanda specifica.
