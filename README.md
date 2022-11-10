@@ -1,7 +1,7 @@
-# demo-git-github
+# Repo to fork
 
 test changes
 
 hacker attack from another dimension clone
 
-Aici e o functionalitate experiment - gata, e bug de merge
+Hacker-ul este nevinovat! - Adverat!
